@@ -4,3 +4,17 @@ This application acts as the front-end for the Task Management application devel
 
 #### Backend code: https://github.com/Archaeologist03/nestjs-task-management
 #### Live demo: https://nest-task-management.netlify.app/
+
+
+
+## Install
+
+```sh
+yarn 
+```
+
+## Usage
+
+```sh
+start:dev
+```
